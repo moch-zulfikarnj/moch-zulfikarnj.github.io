@@ -1,0 +1,15 @@
+body {
+  background-color: #ffd8bc;
+  color: #000000;
+  padding-top: 4rem;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+}
+
+#contact {
+  background-color: #fffeff;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}

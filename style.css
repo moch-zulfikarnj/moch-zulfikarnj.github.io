@@ -8,6 +8,10 @@ body {
   padding-top: 2rem;
 }
 
+.list-group-item {
+  background-color: #ffd8bc;
+}
+
 #contact {
   background-color: #fffeff;
   padding-top: 2rem;

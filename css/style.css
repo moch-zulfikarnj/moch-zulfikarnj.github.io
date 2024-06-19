@@ -17,3 +17,7 @@ body {
   padding-top: 2rem;
   padding-bottom: 4rem;
 }
+
+.section-title {
+  font-size: 3rem;
+}

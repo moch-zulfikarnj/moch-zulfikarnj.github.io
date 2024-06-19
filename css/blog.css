@@ -1,0 +1,41 @@
+/*
+* Website Template
+*/
+body {
+  background-color: #ffd8bc;
+  color: #000000;
+  padding-top: 4rem;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+}
+
+.list-group-item {
+  background-color: #ffd8bc;
+}
+
+#contact {
+  background-color: #fffeff;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+.section-title {
+  font-size: 3rem;
+}
+
+/*
+ * Blog posts
+ */
+.blog-post {
+  margin-bottom: 4rem;
+}
+.blog-post-title {
+  margin-bottom: 0.25rem;
+  font-size: 2rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #727272;
+}
